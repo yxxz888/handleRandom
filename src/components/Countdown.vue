@@ -15,6 +15,7 @@ const formatted = computed(() => {
   <div pt12 pb16>
     <div flex="~ col" items-center>
       <ShareButton m4 />
+      <ResetButton m4 />
       <ToggleMask :hint="true" />
     </div>
 
