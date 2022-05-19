@@ -2,6 +2,8 @@
 
 # 汉兜 Handle
 
+根据源仓库修改而成，结束后增加重置按钮，点击后随机生成下一个谜题，不再根据天数重置。
+
 A Chinese Hanzi variation of [Wordle](https://www.powerlanguage.co.uk/wordle/). 汉字 Wordle.
 
 [handle.antfu.me](https://handle.antfu.me)
